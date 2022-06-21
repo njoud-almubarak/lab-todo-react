@@ -1,0 +1,40 @@
+
+body{
+  background-color: rgb(243, 242, 242);
+}
+.App {
+  text-align: center;
+  margin-top:200px;
+ 
+}
+
+.container-nav{
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+.container{
+  margin-top: 10px;
+  width: 100vh;
+ 
+}
+
+.form-control{
+  margin-top: 20px;
+ 
+ 
+}
+
+button{
+  margin-top: 10px;
+  width: 50vh;
+  background-color: gray;
+ border-color: gray;
+ color: aliceblue;
+}
+
+
+
+
+
+
